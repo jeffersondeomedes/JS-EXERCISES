@@ -12,10 +12,15 @@ Este repositório contém dois exercícios em JavaScript:
    - SOMA = 77
      
 4. **Resultados das alternativa**
+   
    a) 9 (sequencia +2)
+   
    b) 128 (sequencia x2)
+   
    c) 49 (sequencia +impares)
+   
    d) 13 (sequencia +numeroanterior)
+   
    e) 20 (sequencia continuando em +1)
 
 6. **Verificar quais lampadas**
